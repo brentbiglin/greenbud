@@ -28,3 +28,7 @@ article p {
 	font-family: 'Roboto', sans-serif;
 	font-size: 1.3em;
 }
+li {
+	font-family: 'Roboto', sans-serif;
+	list-style-type: none;
+}
