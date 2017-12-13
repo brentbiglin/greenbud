@@ -1,7 +1,10 @@
 aside {
 	position: fixed;
 	top: 100px;
-	left: 800px;
+	left: 900px;
+}
+iframe {
+	box-shadow: 0 10px 20px, 0 6px 6px;
 }
 article {
 	width: 700px;
